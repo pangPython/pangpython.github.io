@@ -1,4 +1,7 @@
 ## 授权之前检查当前用户是否有授予权限的权限
+
+2019年7月21日 21:17:15
+
 最近在处理MySQL用户授权的时候发现一个比较奇妙的事
 ```
 CREATE USER 'external_u_ro_01'@'localhost' IDENTIFIED BY 'password2019!@#$';
