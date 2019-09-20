@@ -2,11 +2,19 @@
 
 ## database
 ### mysql
-- MySQL用户授权相关[MySQL用户授权相关](database/MySQL用户授权相关.md)
+- [MySQL用户授权相关](database/MySQL用户授权相关.md)
 
 ## lang
+
 ### Java
-- maven[maven](lang/Java/maven.md)
+- [maven](lang/Java/maven.md)
 
 ### Python
-- pip[pip](lang/Python/pip.md)
+- [pip](lang/Python/pip.md)
+
+## PM
+
+### axure
+
+## life
+- [movie](life/movie.md)
