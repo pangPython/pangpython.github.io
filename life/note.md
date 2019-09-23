@@ -56,3 +56,15 @@ WIP
 2019-9-23 08:17:53
 学习Django
 typescript
+ETCD https://draveness.me/etcd-introduction
+openfire
+
+
+找一个SpringBoot项目，最好是项目管理系统的，有菜单管理、用户管理模块的
+原型完善
+
+
+项目管理平台
+	https://github.com/micromata/projectforge
+	
+
