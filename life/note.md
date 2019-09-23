@@ -1,42 +1,42 @@
-ÎŞËø±à³Ì
-ÀëÉ¢ÊıÑ§
+æ— é”ç¼–ç¨‹
+ç¦»æ•£æ•°å­¦
 SQL server
-¸ÊÌØÍ¼
+ç”˜ç‰¹å›¾
 
 
-2019Äê9ÔÂ11ÈÕ09:46:59
-¾ØÕó¹ÜÀí
+2019å¹´9æœˆ11æ—¥09:46:59
+çŸ©é˜µç®¡ç†
 ERP
-ÏîÄ¿¹ÜÀí
-ÒµÎñÁ÷
+é¡¹ç›®ç®¡ç†
+ä¸šåŠ¡æµ
 BPM
 SOA
 https://www.ibm.com/developerworks/cn/webservices/1011_guch_soaprocess/1011_guch_soaprocess.html
 pip requiements.txt
 setuptools 
 distutils
-¡¶PythonºËĞÄ±à³Ì¡·
+ã€ŠPythonæ ¸å¿ƒç¼–ç¨‹ã€‹
 https://mp.weixin.qq.com/s/e2c086G86bDcsQuoJIGfbw
-½ğµû ÓÃÓÑ
-PM¡¢MBA
+é‡‘è¶ ç”¨å‹
+PMã€MBA
 
 2019-9-17 08:18:02
-vSphere, ESXi ºÍ vCenter
-¸ßĞÔÄÜ¶ÓÁĞ¡ª¡ªDisruptor
-IC¿¨
+vSphere, ESXi å’Œ vCenter
+é«˜æ€§èƒ½é˜Ÿåˆ—â€”â€”Disruptor
+ICå¡
 k8s
-CRM¡¢HRM¡¢BPM
+CRMã€HRMã€BPM
 docker
 jenkins
 
 
 
 2019-9-18 08:16:26
-ÎŞÖ½»¯°ì¹«
+æ— çº¸åŒ–åŠå…¬
 BarTender
 SmartBI
 odoo
-ÏîÄ¿¶Ô½Ó
+é¡¹ç›®å¯¹æ¥
 Cucumber
 https://tower.im/teams/eabc581dea3af92c3509ae3fc3cfa806/projects/
 Minitab
@@ -44,15 +44,15 @@ https://www.zhihu.com/search?type=content&q=%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86
 
 
 2019-9-19 08:31:23
-È¨ÏŞ¹ÜÀí¿ò¼Ü
-¹ú¼Ê»¯
+æƒé™ç®¡ç†æ¡†æ¶
+å›½é™…åŒ–
 
 2019-9-20 09:04:33
 
-ä¯ÀÀÆ÷ µ÷ÓÃDLL
+æµè§ˆå™¨ è°ƒç”¨DLL
 WIP
-Ñ§Ï°ÏÂVue
+å­¦ä¹ ä¸‹Vue
 
 2019-9-23 08:17:53
-Ñ§Ï°Django
+å­¦ä¹ Django
 typescript
