@@ -5,6 +5,12 @@
 ### mysql
 - [MySQL用户授权相关](database/MySQL用户授权相关.md)
 
+### postgresql
+- [使用Postgresql进行中文分词.md](database/postgresql/使用Postgresql进行中文分词.md)
+
+### oracle
+- [oracle学习笔记](database/oracle/)
+
 ### nosql
 
 #### neo4j
@@ -18,6 +24,9 @@
 
 ### Python
 - [pip](lang/Python/pip.md)
+
+### lua
+- [Lua的包管理器LuaRockts](lang/lua/Lua的包管理器LuaRockts.md)
 
 ## PM
 
