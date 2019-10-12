@@ -69,3 +69,18 @@
 - https://mritd.me/2019/06/26/podman-history-of-container/
 - https://www.cnblogs.com/xuxinkun/p/8036832.html
 - 《京东基础架构建设之路》
+- seo
+- mybatis plus
+# 2019-9-27 08:58:13
+- jedis Redis for Java
+- 高性能微服务开发框架 Tars
+- Jenkins
+# 2019-10-11 10:10:23
+- go
+- 以前的项目重新迭代
+# 2019-10-12 14:20:44
+- JOOQ
+- swagger
+- 500px
+- 在线预览方案
+	- onlyoffice
