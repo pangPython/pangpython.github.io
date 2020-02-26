@@ -1,13 +1,13 @@
 # Site settings
 
-author: Yourname
-email: example@email.com
+author: pangPython
+email: pangPython@qq.com
 twitter_username: twitter
-github_username:  github
+github_username:  pangPython
 googleplus_username: google
 
-head-title: Your blog
-title: Your blog
+head-title: pangPython的博客
+title: pangPython的博客
 
 baseurl: "/"    # the subpath of your site, "/blog"
 url: ""
