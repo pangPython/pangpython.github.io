@@ -113,3 +113,6 @@ wxss:
 
 效果图：
 ![微信小程序九宫格布局](/assets/images/wx-miniprogram-grid.png)
+
+实际体验：
+![瘦show](/assets/images/shoushow.jpg)
