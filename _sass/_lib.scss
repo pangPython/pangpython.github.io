@@ -1,7 +1,9 @@
 // Font
 
 @each $google-font in $google-fonts {
-    @import url('https://fonts.googleapis.com/css?family=' + $google-font);
+    //@import url('https://fonts.googleapis.com/css?family=' + $google-font);
+    @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+    @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 }
 
 @font-face {
